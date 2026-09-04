@@ -1,0 +1,1 @@
+{"name":"x-panel","version":"1.0.0","private":true,"scripts":{"dev":"npx serve public","start":"npx serve public"},"engines":{"node":">=20"}}
